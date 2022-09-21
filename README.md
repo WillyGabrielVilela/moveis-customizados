@@ -1,4 +1,4 @@
-<img align="center" alt="Capa do projeto" src="images/previewgit.PNG" width="100%">
+<img align="center" alt="Capa do projeto" src="images/previewgit.PNG" width="80%">
 
 ## 💻 Projeto
 
