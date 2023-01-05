@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o programa Explorer da Rocketseat, consistiu em criar uma página inicial de uma empresa de móveis customizados com HTML e CSS.
+Desafio do Discover da Rocketseat onde consiste em desenvolver uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
 ## 🚀 Tecnologias
 
@@ -17,4 +17,4 @@ Projeto desenvolvido durante o programa Explorer da Rocketseat, consistiu em cri
 
 O layout pode ser visto através do Figma
 
-[Layout Web](https://www.figma.com/file/hWF7zWWJgk8qOJTdcxCUUB/Explorer---Projeto-01-(Copy)?node-id=1%3A2)
+[Layout Web](https://www.figma.com/file/hPiboJHJTvPAfbFKI0tWC6/DD-Social-links-Copy?fuid=1044716808414252537)
